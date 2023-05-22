@@ -1,0 +1,6 @@
+.form-group{
+    display: flex;
+    justify-content: space-between;
+    color: gre;
+    margin-bottom: 15px;
+}
